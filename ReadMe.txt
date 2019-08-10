@@ -8,4 +8,4 @@
 
 5.Use Train_maskRCNN.ipynb to train the model.
 
-6.Use inspect_custom_model.ipynb to test.
+6.Use inspect_custom_model.ipynb to test.Link to download pre-trained model --https://drive.google.com/open?id=1-R71xDnBKFFXKQ-EYz0D9RCWHsxANwT9
