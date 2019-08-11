@@ -12,6 +12,8 @@
 6.Use inspect_custom_model.ipynb to test.Link to download pre-trained model --https://drive.google.com/open?id=1-R71xDnBKFFXKQ-EYz0D9RCWHsxANwT9
 
 <h2>SOME RESULTS</h2>
+<p><em>Ground Truth</em><em>Prediction
+</em></p>
 <p><img src="https://github.com/GangulliGanesh/Cancer_detect/blob/master/Static/GT_1.png" | width=400>
 <img src="https://github.com/GangulliGanesh/Cancer_detect/blob/master/Static/prediction_1.png" | width=400></p>
 <p><img src="https://github.com/GangulliGanesh/Cancer_detect/blob/master/Static/GT_2.png" | width=400>
