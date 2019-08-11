@@ -1,3 +1,7 @@
+<h1>A Mask R-CNN model that is trained on 1000 subjects from LUNA dataset</h1>
+There was GPU(Tesla K-80) constraint due to which the accuracy of the model was compromised.</br> 
+You can use a better GPU to get model of higher accuracy. 
+
 <h2>PROCEDURE</h2>
 1.Use Write_CSV_to_Folder_v3_FY.ipynb to create A csv_folder that will have all .csv from the subjects each .csv file will have the points that define the contour of the cancer cell.(Input is form LUNA dataset)
 
